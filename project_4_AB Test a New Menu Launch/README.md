@@ -23,3 +23,5 @@ Transaction data for all stores from 2015-January-21 to 2016-August-18
 This file contains store information for each Round Roaster store in the USA.
 - treatment-stores.csv 
  This file contains store information for each store that offered the new menu items.
+- round-roaster-transactions.zip 
+This file contains transaction-level information for all of Round Roaster's stores
